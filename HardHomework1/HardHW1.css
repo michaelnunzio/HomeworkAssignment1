@@ -1,0 +1,256 @@
+body {
+    background:#777;
+    /* box-sizing: border-box; */
+    background-image: url("bananas.png");
+   
+    }
+
+ .name {
+    background: #4aaaa5;
+     color: white;
+     padding: 43px;
+     text-align:center;
+    position: absolute;
+    left: 210px;
+    text-align: center;
+    position: absolute;
+    width: 218px;
+    height: 18px;
+    font-family:'Georgia', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    
+    }
+
+header {
+    background-color: #fff;
+    border-bottom: #ccc 2px solid; 
+    padding:25px;   
+    margin: -10px -10px 0 -10px;
+   
+}
+
+
+
+#about {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+    position: relative;
+    top: 13px;
+    left: 940px;
+    color: #777;
+    
+    
+}
+
+#portfolio {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+    position: relative;
+    top: -5px;
+    left: 1020px;
+    color: #777;
+    
+
+}
+
+#contact {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+    position: relative;
+    top: -23px;
+    left: 1120px;
+    color: #777;
+
+}
+
+
+
+
+
+#me {
+    font-family:'Georgia', Times, serif;
+    font-size: 30px;
+    color: #4aaaa5;
+    margin-bottom: 30px;
+    margin-top: -5px;
+    font-weight: bold;   
+}
+
+
+.aboutMEH {
+
+padding: 40px 40px 55px 40px;
+background: #ffffff;
+width: 960px;
+margin: 45px 200px 0px 200px;
+height:390px;
+border: #ccc 1.5px solid; 
+margin-bottom: 200px;
+
+
+}
+
+.img {
+    float: left; 
+    margin: 4px 20px 10px 0px; 
+}
+
+.textc {
+    color: #777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+}
+
+footer {
+    clear: both;
+    background-color: #777;
+    text-align: center;
+    margin: 90px -10px 0px -10px;
+    border-top:  #4aaaa5 6px solid;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family:'Georgia', Times, serif;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+   
+    
+}
+
+.copyright {
+    position: relative;
+    bottom: -27px;
+    color: #ccc;
+    font-size: small;
+}
+
+/* PSEDUO CLASSES FOR LINKS */
+
+a {
+    color: #777;
+    text-decoration-line: none;
+}
+
+a:focus {
+    color:#4aaaa5;
+}
+a:hover {
+    color:gold;
+}
+
+/* CONTACT H T M L FORMS */
+
+.f1 {
+    padding: 3px 400px 3px 400px;
+    margin-bottom: 10px;
+}
+
+.f2 {
+    padding: 3px 400px 3px 400px;
+    margin-bottom: 10px;
+}
+
+.f3 {
+    padding: 100px 400px;
+}
+
+.form {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+    color: #777;
+}
+
+/* PORTFOLIOOO */
+
+.PortPage {
+    padding: 40px 40px 450px 40px;
+    background: #ffffff;
+    width: 960px;
+   
+    margin: 45px 200px 0px 200px;
+    height:390px;
+    border: #ccc 1.5px solid; 
+    margin-bottom: 200px;
+}
+
+.pic1 {
+    padding-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.pic2 {
+    padding-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.pic3 {
+    padding-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.pic4 {
+    padding-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.pic5 {
+    padding-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+/* BOX FOR PICS */
+
+.bPic1 {
+    
+   padding: 10px;
+    background:#4aaaa5;
+    width: 180px;
+    height: 20px;
+    position: relative;
+    bottom: 425px;
+    left: 0px;
+    
+
+}
+
+.bPic2 {
+    padding: 10px;
+    background:#4aaaa5;
+    width: 180px;
+    height: 20px;
+    position: relative;
+    bottom: 465px;
+    left: 254px;
+}
+
+.bPic3 {
+        padding: 10px;
+        background:#4aaaa5;
+        width: 180px;
+        height: 20px;
+        position: relative;
+        bottom: 504px;
+        left: 508px;
+    }
+
+    .bPic4 {
+        padding: 10px;
+        background:#4aaaa5;
+        width: 180px;
+        height: 20px;
+        position: relative;
+        bottom: 240px;
+        left: 0px;
+    }
+
+    .bPic5 {
+        padding: 10px;
+        background:#4aaaa5;
+        width: 180px;
+        height: 20px;
+        position: relative;
+        bottom: 280px;
+        left: 254px;
+    }
+
